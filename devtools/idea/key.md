@@ -1,6 +1,6 @@
-#快捷键
+# 快捷键
 
-##常用但初学不容易记忆的快捷键
+## 常用但初学不容易记忆的快捷键
     Command + Option + L 格式化
     Command + Option + O 自动import
     Command + D 复制一行
