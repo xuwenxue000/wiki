@@ -5,3 +5,5 @@
     https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac
 ## 配置
     config
+## 快捷键
+    key.md
