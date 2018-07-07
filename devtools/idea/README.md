@@ -1,4 +1,4 @@
-#Idea
+# Idea
 ## 官网
     https://www.jetbrains.com/
 ## 下载
